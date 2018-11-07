@@ -651,7 +651,10 @@
             this.Controls.Add(this.txtOut2);
             this.Controls.Add(this.btnExit);
             this.Controls.Add(this.btnOpen);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
             this.Name = "MainForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "GPS Tools";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.statusStrip1.ResumeLayout(false);
