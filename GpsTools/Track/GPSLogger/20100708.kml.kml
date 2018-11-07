@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>HistTrack(By ANTer)</name>
+         <Style id="sn_placemark_arrow">
+      		<IconStyle>
+      		<color>ff00ffff</color>
+      			<scale>0.5</scale>
+      			<Icon>
+      				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+      			</Icon>
+      		</IconStyle>
+      		<LabelStyle>
+      			<scale>1</scale>
+      		</LabelStyle>
+      	</Style>
+            <Style id="sn_placemark_circle">
+      		<IconStyle>
+      			<scale>0.3</scale>
+      			<Icon>
+      				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+      			</Icon>
+      		</IconStyle>
+      		<LabelStyle>
+      			<scale>0.5</scale>
+      		</LabelStyle>
+      	</Style>
+    <Style id="lineStyle">
+      <LineStyle>
+        <color>A00080ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+      <Folder>
+        <name>20100708.kml</name>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-08 8:38:22</td></tr>
+                <tr><td>经度：116.333553</td></tr>
+                <tr><td>纬度：39.730693</td></tr>
+                <tr><td>高度：29.00</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_arrow</styleUrl>
+         <name>起点</name>
+         <TimeStamp>
+            <when>2010-07-08T8:38:22Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.333552598953,39.7306931018829,29</coordinates>
+         </Point>
+      </Placemark>
+          <Folder>
+            <name>Point</name>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-08 8:43:06</td></tr>
+                <tr><td>经度：116.333596</td></tr>
+                <tr><td>纬度：39.726976</td></tr>
+                <tr><td>高度：36.00</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>2</name>
+         <TimeStamp>
+            <when>2010-07-08T8:43:06Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.333595514297,39.7269755601883,36</coordinates>
+         </Point>
+      </Placemark>
+          </Folder>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-08 8:46:02</td></tr>
+                <tr><td>经度：116.335843</td></tr>
+                <tr><td>纬度：39.726300</td></tr>
+                <tr><td>高度：18.00</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_arrow</styleUrl>
+         <name>终点</name>
+         <TimeStamp>
+            <when>2010-07-08T8:46:02Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.335843205452,39.7262996435165,18</coordinates>
+         </Point>
+      </Placemark>
+    <Placemark>
+      <name>Track</name>
+        <styleUrl>lineStyle</styleUrl>
+      <LineString>
+        <coordinates>
+116.333552598953,39.7306931018829,29
+116.333547234535,39.7297757863998,28
+116.333568692207,39.7288423776627,34
+116.333622336388,39.7278767824173,39
+116.333595514297,39.7269755601883,36
+116.334764957428,39.7268950939178,24
+116.335843205452,39.7262996435165,18
+        </coordinates>
+      </LineString>
+    </Placemark>
+   </Folder>
+  </Document>
+</kml>

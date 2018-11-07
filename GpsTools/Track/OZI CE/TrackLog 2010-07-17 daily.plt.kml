@@ -1,0 +1,3085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>HistTrack(By ANTer)</name>
+         <Style id="sn_placemark_arrow">
+      		<IconStyle>
+      		<color>ff00ffff</color>
+      			<scale>0.5</scale>
+      			<Icon>
+      				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+      			</Icon>
+      		</IconStyle>
+      		<LabelStyle>
+      			<scale>1</scale>
+      		</LabelStyle>
+      	</Style>
+            <Style id="sn_placemark_circle">
+      		<IconStyle>
+      			<scale>0.3</scale>
+      			<Icon>
+      				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+      			</Icon>
+      		</IconStyle>
+      		<LabelStyle>
+      			<scale>0.5</scale>
+      		</LabelStyle>
+      	</Style>
+    <Style id="lineStyle">
+      <LineStyle>
+        <color>A00080ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+      <Folder>
+        <name>TrackLog 2010-07-17 daily.plt</name>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 6:57:56</td></tr>
+                <tr><td>经度：116.333745</td></tr>
+                <tr><td>纬度：39.736425</td></tr>
+                <tr><td>高度：-0.88</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_arrow</styleUrl>
+         <name>起点</name>
+         <TimeStamp>
+            <when>2010-07-17T6:57:56Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.333745,39.736425,-0.88</coordinates>
+         </Point>
+      </Placemark>
+          <Folder>
+            <name>Point</name>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 6:58:13</td></tr>
+                <tr><td>经度：116.332838</td></tr>
+                <tr><td>纬度：39.736407</td></tr>
+                <tr><td>高度：-4.08</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>2</name>
+         <TimeStamp>
+            <when>2010-07-17T6:58:13Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3328383,39.7364067,-4.08</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 6:58:48</td></tr>
+                <tr><td>经度：116.329053</td></tr>
+                <tr><td>纬度：39.736342</td></tr>
+                <tr><td>高度：-10.70</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>3</name>
+         <TimeStamp>
+            <when>2010-07-17T6:58:48Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3290533,39.7363417,-10.7</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 6:59:17</td></tr>
+                <tr><td>经度：116.326213</td></tr>
+                <tr><td>纬度：39.736340</td></tr>
+                <tr><td>高度：-17.98</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>4</name>
+         <TimeStamp>
+            <when>2010-07-17T6:59:17Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3262133,39.73634,-17.98</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:00:01</td></tr>
+                <tr><td>经度：116.320087</td></tr>
+                <tr><td>纬度：39.736375</td></tr>
+                <tr><td>高度：-39.84</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>5</name>
+         <TimeStamp>
+            <when>2010-07-17T7:00:01Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3200867,39.736375,-39.84</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:00:31</td></tr>
+                <tr><td>经度：116.319477</td></tr>
+                <tr><td>纬度：39.736348</td></tr>
+                <tr><td>高度：-37.40</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>6</name>
+         <TimeStamp>
+            <when>2010-07-17T7:00:31Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3194767,39.7363483,-37.4</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:00:42</td></tr>
+                <tr><td>经度：116.318985</td></tr>
+                <tr><td>纬度：39.736027</td></tr>
+                <tr><td>高度：2.77</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>7</name>
+         <TimeStamp>
+            <when>2010-07-17T7:00:42Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.318985,39.7360267,2.77</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:00:51</td></tr>
+                <tr><td>经度：116.319080</td></tr>
+                <tr><td>纬度：39.735587</td></tr>
+                <tr><td>高度：14.20</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>8</name>
+         <TimeStamp>
+            <when>2010-07-17T7:00:51Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.31908,39.7355867,14.2</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:01:27</td></tr>
+                <tr><td>经度：116.320078</td></tr>
+                <tr><td>纬度：39.732302</td></tr>
+                <tr><td>高度：32.34</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>9</name>
+         <TimeStamp>
+            <when>2010-07-17T7:01:27Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3200783,39.7323017,32.34</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:01:40</td></tr>
+                <tr><td>经度：116.320230</td></tr>
+                <tr><td>纬度：39.731870</td></tr>
+                <tr><td>高度：34.53</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>10</name>
+         <TimeStamp>
+            <when>2010-07-17T7:01:40Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.32023,39.73187,34.53</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:02:04</td></tr>
+                <tr><td>经度：116.320758</td></tr>
+                <tr><td>纬度：39.730557</td></tr>
+                <tr><td>高度：49.93</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>11</name>
+         <TimeStamp>
+            <when>2010-07-17T7:02:04Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3207583,39.7305567,49.93</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:02:48</td></tr>
+                <tr><td>经度：116.321998</td></tr>
+                <tr><td>纬度：39.726387</td></tr>
+                <tr><td>高度：52.55</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>12</name>
+         <TimeStamp>
+            <when>2010-07-17T7:02:48Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3219983,39.7263867,52.55</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:02:57</td></tr>
+                <tr><td>经度：116.322032</td></tr>
+                <tr><td>纬度：39.725792</td></tr>
+                <tr><td>高度：52.85</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>13</name>
+         <TimeStamp>
+            <when>2010-07-17T7:02:57Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3220317,39.7257917,52.85</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:03:15</td></tr>
+                <tr><td>经度：116.320160</td></tr>
+                <tr><td>纬度：39.724658</td></tr>
+                <tr><td>高度：50.23</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>14</name>
+         <TimeStamp>
+            <when>2010-07-17T7:03:15Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.32016,39.7246583,50.23</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:03:46</td></tr>
+                <tr><td>经度：116.317197</td></tr>
+                <tr><td>纬度：39.722722</td></tr>
+                <tr><td>高度：54.22</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>15</name>
+         <TimeStamp>
+            <when>2010-07-17T7:03:46Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3171967,39.7227217,54.22</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:04:03</td></tr>
+                <tr><td>经度：116.315465</td></tr>
+                <tr><td>纬度：39.722317</td></tr>
+                <tr><td>高度：52.73</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>16</name>
+         <TimeStamp>
+            <when>2010-07-17T7:04:03Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.315465,39.7223167,52.73</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:04:34</td></tr>
+                <tr><td>经度：116.314615</td></tr>
+                <tr><td>纬度：39.722158</td></tr>
+                <tr><td>高度：51.30</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>17</name>
+         <TimeStamp>
+            <when>2010-07-17T7:04:34Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.314615,39.7221583,51.3</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:04:50</td></tr>
+                <tr><td>经度：116.313005</td></tr>
+                <tr><td>纬度：39.721903</td></tr>
+                <tr><td>高度：50.75</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>18</name>
+         <TimeStamp>
+            <when>2010-07-17T7:04:50Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.313005,39.7219033,50.75</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:05:10</td></tr>
+                <tr><td>经度：116.310275</td></tr>
+                <tr><td>纬度：39.721328</td></tr>
+                <tr><td>高度：46.85</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>19</name>
+         <TimeStamp>
+            <when>2010-07-17T7:05:10Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.310275,39.7213283,46.85</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:05:23</td></tr>
+                <tr><td>经度：116.310668</td></tr>
+                <tr><td>纬度：39.719960</td></tr>
+                <tr><td>高度：44.53</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>20</name>
+         <TimeStamp>
+            <when>2010-07-17T7:05:23Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3106683,39.71996,44.53</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:06:03</td></tr>
+                <tr><td>经度：116.312355</td></tr>
+                <tr><td>纬度：39.714042</td></tr>
+                <tr><td>高度：48.22</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>21</name>
+         <TimeStamp>
+            <when>2010-07-17T7:06:03Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.312355,39.7140417,48.22</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:06:18</td></tr>
+                <tr><td>经度：116.312445</td></tr>
+                <tr><td>纬度：39.712827</td></tr>
+                <tr><td>高度：50.47</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>22</name>
+         <TimeStamp>
+            <when>2010-07-17T7:06:18Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.312445,39.7128267,50.47</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:06:35</td></tr>
+                <tr><td>经度：116.312000</td></tr>
+                <tr><td>纬度：39.711570</td></tr>
+                <tr><td>高度：51.88</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>23</name>
+         <TimeStamp>
+            <when>2010-07-17T7:06:35Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.312,39.71157,51.88</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:07:03</td></tr>
+                <tr><td>经度：116.313185</td></tr>
+                <tr><td>纬度：39.708895</td></tr>
+                <tr><td>高度：53.83</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>24</name>
+         <TimeStamp>
+            <when>2010-07-17T7:07:03Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.313185,39.708895,53.83</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:07:14</td></tr>
+                <tr><td>经度：116.313980</td></tr>
+                <tr><td>纬度：39.708585</td></tr>
+                <tr><td>高度：54.96</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>25</name>
+         <TimeStamp>
+            <when>2010-07-17T7:07:14Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.31398,39.708585,54.96</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:07:27</td></tr>
+                <tr><td>经度：116.314565</td></tr>
+                <tr><td>纬度：39.707818</td></tr>
+                <tr><td>高度：55.84</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>26</name>
+         <TimeStamp>
+            <when>2010-07-17T7:07:27Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.314565,39.7078183,55.84</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:08:00</td></tr>
+                <tr><td>经度：116.315538</td></tr>
+                <tr><td>纬度：39.704037</td></tr>
+                <tr><td>高度：58.00</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>27</name>
+         <TimeStamp>
+            <when>2010-07-17T7:08:00Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3155383,39.7040367,58</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:08:27</td></tr>
+                <tr><td>经度：116.316048</td></tr>
+                <tr><td>纬度：39.700322</td></tr>
+                <tr><td>高度：60.53</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>28</name>
+         <TimeStamp>
+            <when>2010-07-17T7:08:27Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3160483,39.7003217,60.53</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:08:35</td></tr>
+                <tr><td>经度：116.315857</td></tr>
+                <tr><td>纬度：39.699903</td></tr>
+                <tr><td>高度：60.17</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>29</name>
+         <TimeStamp>
+            <when>2010-07-17T7:08:35Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3158567,39.6999033,60.17</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:08:54</td></tr>
+                <tr><td>经度：116.313618</td></tr>
+                <tr><td>纬度：39.699530</td></tr>
+                <tr><td>高度：60.72</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>30</name>
+         <TimeStamp>
+            <when>2010-07-17T7:08:54Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3136183,39.69953,60.72</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:10:15</td></tr>
+                <tr><td>经度：116.303038</td></tr>
+                <tr><td>纬度：39.697743</td></tr>
+                <tr><td>高度：50.81</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>31</name>
+         <TimeStamp>
+            <when>2010-07-17T7:10:15Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3030383,39.6977433,50.81</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:10:58</td></tr>
+                <tr><td>经度：116.297830</td></tr>
+                <tr><td>纬度：39.696873</td></tr>
+                <tr><td>高度：44.53</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>32</name>
+         <TimeStamp>
+            <when>2010-07-17T7:10:58Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.29783,39.6968733,44.53</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:11:39</td></tr>
+                <tr><td>经度：116.293505</td></tr>
+                <tr><td>纬度：39.696327</td></tr>
+                <tr><td>高度：47.58</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>33</name>
+         <TimeStamp>
+            <when>2010-07-17T7:11:39Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.293505,39.6963267,47.58</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:11:55</td></tr>
+                <tr><td>经度：116.293218</td></tr>
+                <tr><td>纬度：39.697190</td></tr>
+                <tr><td>高度：47.82</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>34</name>
+         <TimeStamp>
+            <when>2010-07-17T7:11:55Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2932183,39.69719,47.82</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:12:43</td></tr>
+                <tr><td>经度：116.292680</td></tr>
+                <tr><td>纬度：39.698525</td></tr>
+                <tr><td>高度：45.38</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>35</name>
+         <TimeStamp>
+            <when>2010-07-17T7:12:43Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.29268,39.698525,45.38</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:13:16</td></tr>
+                <tr><td>经度：116.292913</td></tr>
+                <tr><td>纬度：39.697653</td></tr>
+                <tr><td>高度：45.96</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>36</name>
+         <TimeStamp>
+            <when>2010-07-17T7:13:16Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2929133,39.6976533,45.96</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:13:38</td></tr>
+                <tr><td>经度：116.293422</td></tr>
+                <tr><td>纬度：39.696415</td></tr>
+                <tr><td>高度：48.19</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>37</name>
+         <TimeStamp>
+            <when>2010-07-17T7:13:38Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2934217,39.696415,48.19</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:13:51</td></tr>
+                <tr><td>经度：116.292565</td></tr>
+                <tr><td>纬度：39.696207</td></tr>
+                <tr><td>高度：49.83</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>38</name>
+         <TimeStamp>
+            <when>2010-07-17T7:13:51Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.292565,39.6962067,49.83</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:14:38</td></tr>
+                <tr><td>经度：116.285827</td></tr>
+                <tr><td>纬度：39.695513</td></tr>
+                <tr><td>高度：48.52</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>39</name>
+         <TimeStamp>
+            <when>2010-07-17T7:14:38Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2858267,39.6955133,48.52</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:14:46</td></tr>
+                <tr><td>经度：116.285338</td></tr>
+                <tr><td>纬度：39.695942</td></tr>
+                <tr><td>高度：47.91</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>40</name>
+         <TimeStamp>
+            <when>2010-07-17T7:14:46Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2853383,39.6959417,47.91</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:15:16</td></tr>
+                <tr><td>经度：116.284948</td></tr>
+                <tr><td>纬度：39.699905</td></tr>
+                <tr><td>高度：46.54</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>41</name>
+         <TimeStamp>
+            <when>2010-07-17T7:15:16Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2849483,39.699905,46.54</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:17:23</td></tr>
+                <tr><td>经度：116.280635</td></tr>
+                <tr><td>纬度：39.720572</td></tr>
+                <tr><td>高度：57.76</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>42</name>
+         <TimeStamp>
+            <when>2010-07-17T7:17:23Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.280635,39.7205717,57.76</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:17:30</td></tr>
+                <tr><td>经度：116.280497</td></tr>
+                <tr><td>纬度：39.721187</td></tr>
+                <tr><td>高度：57.91</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>43</name>
+         <TimeStamp>
+            <when>2010-07-17T7:17:30Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2804967,39.7211867,57.91</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:17:48</td></tr>
+                <tr><td>经度：116.280333</td></tr>
+                <tr><td>纬度：39.721788</td></tr>
+                <tr><td>高度：57.91</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>44</name>
+         <TimeStamp>
+            <when>2010-07-17T7:17:48Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2803333,39.7217883,57.91</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:19:08</td></tr>
+                <tr><td>经度：116.277155</td></tr>
+                <tr><td>纬度：39.733552</td></tr>
+                <tr><td>高度：56.51</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>45</name>
+         <TimeStamp>
+            <when>2010-07-17T7:19:08Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.277155,39.7335517,56.51</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:20:11</td></tr>
+                <tr><td>经度：116.274877</td></tr>
+                <tr><td>纬度：39.742223</td></tr>
+                <tr><td>高度：55.75</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>46</name>
+         <TimeStamp>
+            <when>2010-07-17T7:20:11Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2748767,39.7422233,55.75</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:20:19</td></tr>
+                <tr><td>经度：116.275335</td></tr>
+                <tr><td>纬度：39.742617</td></tr>
+                <tr><td>高度：55.99</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>47</name>
+         <TimeStamp>
+            <when>2010-07-17T7:20:19Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.275335,39.7426167,55.99</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:20:37</td></tr>
+                <tr><td>经度：116.278173</td></tr>
+                <tr><td>纬度：39.742635</td></tr>
+                <tr><td>高度：56.72</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>48</name>
+         <TimeStamp>
+            <when>2010-07-17T7:20:37Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2781733,39.742635,56.72</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:21:10</td></tr>
+                <tr><td>经度：116.283803</td></tr>
+                <tr><td>纬度：39.742598</td></tr>
+                <tr><td>高度：58.98</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>49</name>
+         <TimeStamp>
+            <when>2010-07-17T7:21:10Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2838033,39.7425983,58.98</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:21:35</td></tr>
+                <tr><td>经度：116.284440</td></tr>
+                <tr><td>纬度：39.742593</td></tr>
+                <tr><td>高度：60.08</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>50</name>
+         <TimeStamp>
+            <when>2010-07-17T7:21:35Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.28444,39.7425933,60.08</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:21:55</td></tr>
+                <tr><td>经度：116.285228</td></tr>
+                <tr><td>纬度：39.742575</td></tr>
+                <tr><td>高度：59.44</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>51</name>
+         <TimeStamp>
+            <when>2010-07-17T7:21:55Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2852283,39.742575,59.44</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:22:26</td></tr>
+                <tr><td>经度：116.288853</td></tr>
+                <tr><td>纬度：39.742512</td></tr>
+                <tr><td>高度：60.50</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>52</name>
+         <TimeStamp>
+            <when>2010-07-17T7:22:26Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2888533,39.7425117,60.5</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:23:10</td></tr>
+                <tr><td>经度：116.296708</td></tr>
+                <tr><td>纬度：39.742422</td></tr>
+                <tr><td>高度：61.39</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>53</name>
+         <TimeStamp>
+            <when>2010-07-17T7:23:10Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2967083,39.7424217,61.39</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:23:20</td></tr>
+                <tr><td>经度：116.297643</td></tr>
+                <tr><td>纬度：39.742403</td></tr>
+                <tr><td>高度：61.23</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>54</name>
+         <TimeStamp>
+            <when>2010-07-17T7:23:20Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2976433,39.7424033,61.23</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:23:50</td></tr>
+                <tr><td>经度：116.298372</td></tr>
+                <tr><td>纬度：39.742392</td></tr>
+                <tr><td>高度：61.66</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>55</name>
+         <TimeStamp>
+            <when>2010-07-17T7:23:50Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2983717,39.7423917,61.66</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:24:42</td></tr>
+                <tr><td>经度：116.305998</td></tr>
+                <tr><td>纬度：39.742420</td></tr>
+                <tr><td>高度：57.21</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>56</name>
+         <TimeStamp>
+            <when>2010-07-17T7:24:42Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3059983,39.74242,57.21</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:24:58</td></tr>
+                <tr><td>经度：116.306538</td></tr>
+                <tr><td>纬度：39.742400</td></tr>
+                <tr><td>高度：59.22</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>57</name>
+         <TimeStamp>
+            <when>2010-07-17T7:24:58Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3065383,39.7424,59.22</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:25:21</td></tr>
+                <tr><td>经度：116.306667</td></tr>
+                <tr><td>纬度：39.742710</td></tr>
+                <tr><td>高度：56.05</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>58</name>
+         <TimeStamp>
+            <when>2010-07-17T7:25:21Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3066667,39.74271,56.05</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:25:33</td></tr>
+                <tr><td>经度：116.306007</td></tr>
+                <tr><td>纬度：39.743710</td></tr>
+                <tr><td>高度：55.23</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>59</name>
+         <TimeStamp>
+            <when>2010-07-17T7:25:33Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3060067,39.74371,55.23</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:26:36</td></tr>
+                <tr><td>经度：116.301758</td></tr>
+                <tr><td>纬度：39.752443</td></tr>
+                <tr><td>高度：56.78</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>60</name>
+         <TimeStamp>
+            <when>2010-07-17T7:26:36Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3017583,39.7524433,56.78</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:26:58</td></tr>
+                <tr><td>经度：116.301853</td></tr>
+                <tr><td>纬度：39.755000</td></tr>
+                <tr><td>高度：58.13</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>61</name>
+         <TimeStamp>
+            <when>2010-07-17T7:26:58Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3018533,39.755,58.13</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:28:10</td></tr>
+                <tr><td>经度：116.301895</td></tr>
+                <tr><td>纬度：39.755603</td></tr>
+                <tr><td>高度：58.73</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>62</name>
+         <TimeStamp>
+            <when>2010-07-17T7:28:10Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.301895,39.7556033,58.73</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:28:37</td></tr>
+                <tr><td>经度：116.302427</td></tr>
+                <tr><td>纬度：39.758648</td></tr>
+                <tr><td>高度：58.95</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>63</name>
+         <TimeStamp>
+            <when>2010-07-17T7:28:37Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3024267,39.7586483,58.95</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:29:01</td></tr>
+                <tr><td>经度：116.303230</td></tr>
+                <tr><td>纬度：39.761472</td></tr>
+                <tr><td>高度：57.27</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>64</name>
+         <TimeStamp>
+            <when>2010-07-17T7:29:01Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.30323,39.7614717,57.27</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:29:20</td></tr>
+                <tr><td>经度：116.303380</td></tr>
+                <tr><td>纬度：39.761992</td></tr>
+                <tr><td>高度：57.00</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>65</name>
+         <TimeStamp>
+            <when>2010-07-17T7:29:20Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.30338,39.7619917,57</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:30:04</td></tr>
+                <tr><td>经度：116.304982</td></tr>
+                <tr><td>纬度：39.766100</td></tr>
+                <tr><td>高度：57.21</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>66</name>
+         <TimeStamp>
+            <when>2010-07-17T7:30:04Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3049817,39.7661,57.21</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:30:22</td></tr>
+                <tr><td>经度：116.305697</td></tr>
+                <tr><td>纬度：39.767907</td></tr>
+                <tr><td>高度：56.30</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>67</name>
+         <TimeStamp>
+            <when>2010-07-17T7:30:22Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3056967,39.7679067,56.3</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:30:53</td></tr>
+                <tr><td>经度：116.305973</td></tr>
+                <tr><td>纬度：39.768622</td></tr>
+                <tr><td>高度：53.52</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>68</name>
+         <TimeStamp>
+            <when>2010-07-17T7:30:53Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3059733,39.7686217,53.52</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:31:58</td></tr>
+                <tr><td>经度：116.308813</td></tr>
+                <tr><td>纬度：39.775837</td></tr>
+                <tr><td>高度：53.10</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>69</name>
+         <TimeStamp>
+            <when>2010-07-17T7:31:58Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3088133,39.7758367,53.1</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:32:12</td></tr>
+                <tr><td>经度：116.309097</td></tr>
+                <tr><td>纬度：39.776532</td></tr>
+                <tr><td>高度：54.47</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>70</name>
+         <TimeStamp>
+            <when>2010-07-17T7:32:12Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3090967,39.7765317,54.47</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:32:58</td></tr>
+                <tr><td>经度：116.310712</td></tr>
+                <tr><td>纬度：39.780368</td></tr>
+                <tr><td>高度：55.63</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>71</name>
+         <TimeStamp>
+            <when>2010-07-17T7:32:58Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3107117,39.7803683,55.63</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:33:08</td></tr>
+                <tr><td>经度：116.311197</td></tr>
+                <tr><td>纬度：39.780757</td></tr>
+                <tr><td>高度：53.95</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>72</name>
+         <TimeStamp>
+            <when>2010-07-17T7:33:08Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3111967,39.7807567,53.95</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:33:21</td></tr>
+                <tr><td>经度：116.312777</td></tr>
+                <tr><td>纬度：39.780347</td></tr>
+                <tr><td>高度：54.19</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>73</name>
+         <TimeStamp>
+            <when>2010-07-17T7:33:21Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3127767,39.7803467,54.19</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:33:27</td></tr>
+                <tr><td>经度：116.312960</td></tr>
+                <tr><td>纬度：39.779900</td></tr>
+                <tr><td>高度：52.88</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>74</name>
+         <TimeStamp>
+            <when>2010-07-17T7:33:27Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.31296,39.7799,52.88</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:33:37</td></tr>
+                <tr><td>经度：116.312053</td></tr>
+                <tr><td>纬度：39.779750</td></tr>
+                <tr><td>高度：49.87</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>75</name>
+         <TimeStamp>
+            <when>2010-07-17T7:33:37Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3120533,39.77975,49.87</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:34:25</td></tr>
+                <tr><td>经度：116.303077</td></tr>
+                <tr><td>纬度：39.780678</td></tr>
+                <tr><td>高度：50.35</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>76</name>
+         <TimeStamp>
+            <when>2010-07-17T7:34:25Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3030767,39.7806783,50.35</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:34:52</td></tr>
+                <tr><td>经度：116.295987</td></tr>
+                <tr><td>纬度：39.779678</td></tr>
+                <tr><td>高度：48.40</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>77</name>
+         <TimeStamp>
+            <when>2010-07-17T7:34:52Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2959867,39.7796783,48.4</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:35:51</td></tr>
+                <tr><td>经度：116.283148</td></tr>
+                <tr><td>纬度：39.773140</td></tr>
+                <tr><td>高度：57.58</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>78</name>
+         <TimeStamp>
+            <when>2010-07-17T7:35:51Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2831483,39.77314,57.58</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:36:22</td></tr>
+                <tr><td>经度：116.276247</td></tr>
+                <tr><td>纬度：39.772562</td></tr>
+                <tr><td>高度：65.44</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>79</name>
+         <TimeStamp>
+            <when>2010-07-17T7:36:22Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2762467,39.7725617,65.44</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:36:48</td></tr>
+                <tr><td>经度：116.269768</td></tr>
+                <tr><td>纬度：39.775142</td></tr>
+                <tr><td>高度：50.84</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>80</name>
+         <TimeStamp>
+            <when>2010-07-17T7:36:48Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2697683,39.7751417,50.84</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:37:24</td></tr>
+                <tr><td>经度：116.265227</td></tr>
+                <tr><td>纬度：39.782168</td></tr>
+                <tr><td>高度：54.25</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>81</name>
+         <TimeStamp>
+            <when>2010-07-17T7:37:24Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2652267,39.7821683,54.25</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:39:22</td></tr>
+                <tr><td>经度：116.257757</td></tr>
+                <tr><td>纬度：39.809295</td></tr>
+                <tr><td>高度：65.71</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>82</name>
+         <TimeStamp>
+            <when>2010-07-17T7:39:22Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2577567,39.809295,65.71</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:41:02</td></tr>
+                <tr><td>经度：116.241628</td></tr>
+                <tr><td>纬度：39.828453</td></tr>
+                <tr><td>高度：65.75</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>83</name>
+         <TimeStamp>
+            <when>2010-07-17T7:41:02Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2416283,39.8284533,65.75</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:41:46</td></tr>
+                <tr><td>经度：116.230987</td></tr>
+                <tr><td>纬度：39.832327</td></tr>
+                <tr><td>高度：66.57</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>84</name>
+         <TimeStamp>
+            <when>2010-07-17T7:41:46Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2309867,39.8323267,66.57</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:42:24</td></tr>
+                <tr><td>经度：116.225117</td></tr>
+                <tr><td>纬度：39.838243</td></tr>
+                <tr><td>高度：69.43</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>85</name>
+         <TimeStamp>
+            <when>2010-07-17T7:42:24Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2251167,39.8382433,69.43</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:43:26</td></tr>
+                <tr><td>经度：116.215562</td></tr>
+                <tr><td>纬度：39.848693</td></tr>
+                <tr><td>高度：57.61</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>86</name>
+         <TimeStamp>
+            <when>2010-07-17T7:43:26Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2155617,39.8486933,57.61</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:44:10</td></tr>
+                <tr><td>经度：116.213603</td></tr>
+                <tr><td>纬度：39.856937</td></tr>
+                <tr><td>高度：69.13</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>87</name>
+         <TimeStamp>
+            <when>2010-07-17T7:44:10Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2136033,39.8569367,69.13</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:45:30</td></tr>
+                <tr><td>经度：116.202872</td></tr>
+                <tr><td>纬度：39.872123</td></tr>
+                <tr><td>高度：82.66</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>88</name>
+         <TimeStamp>
+            <when>2010-07-17T7:45:30Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2028717,39.8721233,82.66</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:46:06</td></tr>
+                <tr><td>经度：116.201972</td></tr>
+                <tr><td>纬度：39.879577</td></tr>
+                <tr><td>高度：91.65</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>89</name>
+         <TimeStamp>
+            <when>2010-07-17T7:46:06Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2019717,39.8795767,91.65</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:47:25</td></tr>
+                <tr><td>经度：116.205083</td></tr>
+                <tr><td>纬度：39.895467</td></tr>
+                <tr><td>高度：84.61</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>90</name>
+         <TimeStamp>
+            <when>2010-07-17T7:47:25Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2050833,39.8954667,84.61</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:47:41</td></tr>
+                <tr><td>经度：116.205108</td></tr>
+                <tr><td>纬度：39.899027</td></tr>
+                <tr><td>高度：84.86</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>91</name>
+         <TimeStamp>
+            <when>2010-07-17T7:47:41Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2051083,39.8990267,84.86</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:48:08</td></tr>
+                <tr><td>经度：116.205023</td></tr>
+                <tr><td>纬度：39.904922</td></tr>
+                <tr><td>高度：97.38</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>92</name>
+         <TimeStamp>
+            <when>2010-07-17T7:48:08Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2050233,39.9049217,97.38</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:48:15</td></tr>
+                <tr><td>经度：116.205012</td></tr>
+                <tr><td>纬度：39.906563</td></tr>
+                <tr><td>高度：96.59</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>93</name>
+         <TimeStamp>
+            <when>2010-07-17T7:48:15Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2050117,39.9065633,96.59</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:48:29</td></tr>
+                <tr><td>经度：116.205013</td></tr>
+                <tr><td>纬度：39.909668</td></tr>
+                <tr><td>高度：86.75</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>94</name>
+         <TimeStamp>
+            <when>2010-07-17T7:48:29Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2050133,39.9096683,86.75</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:49:05</td></tr>
+                <tr><td>经度：116.205463</td></tr>
+                <tr><td>纬度：39.916322</td></tr>
+                <tr><td>高度：75.53</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>95</name>
+         <TimeStamp>
+            <when>2010-07-17T7:49:05Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2054633,39.9163217,75.53</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:50:27</td></tr>
+                <tr><td>经度：116.206050</td></tr>
+                <tr><td>纬度：39.932490</td></tr>
+                <tr><td>高度：70.59</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>96</name>
+         <TimeStamp>
+            <when>2010-07-17T7:50:27Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.20605,39.93249,70.59</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:51:32</td></tr>
+                <tr><td>经度：116.206500</td></tr>
+                <tr><td>纬度：39.943367</td></tr>
+                <tr><td>高度：76.54</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>97</name>
+         <TimeStamp>
+            <when>2010-07-17T7:51:32Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2065,39.9433667,76.54</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:53:02</td></tr>
+                <tr><td>经度：116.211560</td></tr>
+                <tr><td>纬度：39.959677</td></tr>
+                <tr><td>高度：67.03</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>98</name>
+         <TimeStamp>
+            <when>2010-07-17T7:53:02Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.21156,39.9596767,67.03</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:55:15</td></tr>
+                <tr><td>经度：116.215183</td></tr>
+                <tr><td>纬度：39.983065</td></tr>
+                <tr><td>高度：70.07</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>99</name>
+         <TimeStamp>
+            <when>2010-07-17T7:55:15Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2151833,39.983065,70.07</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:55:21</td></tr>
+                <tr><td>经度：116.215175</td></tr>
+                <tr><td>纬度：39.983983</td></tr>
+                <tr><td>高度：71.20</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>100</name>
+         <TimeStamp>
+            <when>2010-07-17T7:55:21Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.215175,39.9839833,71.2</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:55:32</td></tr>
+                <tr><td>经度：116.215167</td></tr>
+                <tr><td>纬度：39.985540</td></tr>
+                <tr><td>高度：73.30</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>101</name>
+         <TimeStamp>
+            <when>2010-07-17T7:55:32Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2151667,39.98554,73.3</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:56:10</td></tr>
+                <tr><td>经度：116.215950</td></tr>
+                <tr><td>纬度：39.990130</td></tr>
+                <tr><td>高度：74.55</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>102</name>
+         <TimeStamp>
+            <when>2010-07-17T7:56:10Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.21595,39.99013,74.55</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:56:18</td></tr>
+                <tr><td>经度：116.216203</td></tr>
+                <tr><td>纬度：39.990605</td></tr>
+                <tr><td>高度：74.19</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>103</name>
+         <TimeStamp>
+            <when>2010-07-17T7:56:18Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2162033,39.990605,74.19</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:56:27</td></tr>
+                <tr><td>经度：116.216837</td></tr>
+                <tr><td>纬度：39.990852</td></tr>
+                <tr><td>高度：72.69</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>104</name>
+         <TimeStamp>
+            <when>2010-07-17T7:56:27Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2168367,39.9908517,72.69</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:56:35</td></tr>
+                <tr><td>经度：116.217080</td></tr>
+                <tr><td>纬度：39.991370</td></tr>
+                <tr><td>高度：71.99</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>105</name>
+         <TimeStamp>
+            <when>2010-07-17T7:56:35Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.21708,39.99137,71.99</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:56:44</td></tr>
+                <tr><td>经度：116.216755</td></tr>
+                <tr><td>纬度：39.991863</td></tr>
+                <tr><td>高度：72.79</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>106</name>
+         <TimeStamp>
+            <when>2010-07-17T7:56:44Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.216755,39.9918633,72.79</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:56:56</td></tr>
+                <tr><td>经度：116.216027</td></tr>
+                <tr><td>纬度：39.992043</td></tr>
+                <tr><td>高度：71.51</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>107</name>
+         <TimeStamp>
+            <when>2010-07-17T7:56:56Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2160267,39.9920433,71.51</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:57:06</td></tr>
+                <tr><td>经度：116.215433</td></tr>
+                <tr><td>纬度：39.991838</td></tr>
+                <tr><td>高度：69.31</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>108</name>
+         <TimeStamp>
+            <when>2010-07-17T7:57:06Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2154333,39.9918383,69.31</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:57:26</td></tr>
+                <tr><td>经度：116.214348</td></tr>
+                <tr><td>纬度：39.991933</td></tr>
+                <tr><td>高度：68.40</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>109</name>
+         <TimeStamp>
+            <when>2010-07-17T7:57:26Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2143483,39.9919333,68.4</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:58:09</td></tr>
+                <tr><td>经度：116.209917</td></tr>
+                <tr><td>纬度：39.992417</td></tr>
+                <tr><td>高度：69.86</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>110</name>
+         <TimeStamp>
+            <when>2010-07-17T7:58:09Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2099167,39.9924167,69.86</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:58:44</td></tr>
+                <tr><td>经度：116.205672</td></tr>
+                <tr><td>纬度：39.992565</td></tr>
+                <tr><td>高度：75.32</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>111</name>
+         <TimeStamp>
+            <when>2010-07-17T7:58:44Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2056717,39.992565,75.32</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:59:06</td></tr>
+                <tr><td>经度：116.203878</td></tr>
+                <tr><td>纬度：39.992757</td></tr>
+                <tr><td>高度：79.13</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>112</name>
+         <TimeStamp>
+            <when>2010-07-17T7:59:06Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2038783,39.9927567,79.13</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:59:23</td></tr>
+                <tr><td>经度：116.202768</td></tr>
+                <tr><td>纬度：39.992855</td></tr>
+                <tr><td>高度：83.18</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>113</name>
+         <TimeStamp>
+            <when>2010-07-17T7:59:23Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.2027683,39.992855,83.18</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 7:59:44</td></tr>
+                <tr><td>经度：116.200095</td></tr>
+                <tr><td>纬度：39.993050</td></tr>
+                <tr><td>高度：91.41</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>114</name>
+         <TimeStamp>
+            <when>2010-07-17T7:59:44Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.200095,39.99305,91.41</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 8:00:13</td></tr>
+                <tr><td>经度：116.198467</td></tr>
+                <tr><td>纬度：39.992912</td></tr>
+                <tr><td>高度：92.63</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>115</name>
+         <TimeStamp>
+            <when>2010-07-17T8:00:13Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.1984667,39.9929117,92.63</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 8:00:43</td></tr>
+                <tr><td>经度：116.198695</td></tr>
+                <tr><td>纬度：39.992675</td></tr>
+                <tr><td>高度：92.45</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>116</name>
+         <TimeStamp>
+            <when>2010-07-17T8:00:43Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.198695,39.992675,92.45</coordinates>
+         </Point>
+      </Placemark>
+          </Folder>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2010-07-17 8:01:13</td></tr>
+                <tr><td>经度：116.198678</td></tr>
+                <tr><td>纬度：39.992677</td></tr>
+                <tr><td>高度：93.73</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_arrow</styleUrl>
+         <name>终点</name>
+         <TimeStamp>
+            <when>2010-07-17T8:01:13Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.1986783,39.9926767,93.73</coordinates>
+         </Point>
+      </Placemark>
+    <Placemark>
+      <name>Track</name>
+        <styleUrl>lineStyle</styleUrl>
+      <LineString>
+        <coordinates>
+116.333745000000,39.7364250000000,-0.88
+116.333653300000,39.7364067000000,-5
+116.333501700000,39.7364200000000,-5.49
+116.333165000000,39.7364167000000,-4.24
+116.332838300000,39.7364067000000,-4.08
+116.331691700000,39.7363717000000,-4.39
+116.330676700000,39.7363533000000,-7.96
+116.329511700000,39.7363550000000,-10.55
+116.329053300000,39.7363417000000,-10.7
+116.326891700000,39.7362983000000,-17.19
+116.326733300000,39.7363100000000,-17.34
+116.326485000000,39.7363283000000,-17.43
+116.326213300000,39.7363400000000,-17.98
+116.325786700000,39.7363383000000,-20.6
+116.325133300000,39.7363250000000,-22.74
+116.320321700000,39.7363733000000,-39.5
+116.320086700000,39.7363750000000,-39.84
+116.319885000000,39.7363650000000,-38.53
+116.319736700000,39.7363567000000,-38.86
+116.319603300000,39.7363550000000,-38.86
+116.319476700000,39.7363483000000,-37.4
+116.319338300000,39.7362967000000,-29.38
+116.319210000000,39.7362167000000,-20.03
+116.319108300000,39.7361383000000,-10.58
+116.318985000000,39.7360267000000,2.77
+116.318960000000,39.7359267000000,7.65
+116.319008300000,39.7358283000000,10.09
+116.319041700000,39.7357167000000,12.62
+116.319080000000,39.7355867000000,14.2
+116.319145000000,39.7353383000000,16.09
+116.319931700000,39.7327833000000,29.99
+116.320041700000,39.7324100000000,31.85
+116.320078300000,39.7323017000000,32.34
+116.320110000000,39.7322050000000,34.32
+116.320141700000,39.7321183000000,34.38
+116.320168300000,39.7320283000000,34.53
+116.320230000000,39.7318700000000,34.53
+116.320451700000,39.7313383000000,39.62
+116.320618300000,39.7308567000000,45.54
+116.320681700000,39.7307183000000,48.89
+116.320758300000,39.7305567000000,49.93
+116.320820000000,39.7303467000000,50.23
+116.321043300000,39.7296633000000,52.24
+116.321585000000,39.7280000000000,53.74
+116.321998300000,39.7263867000000,52.55
+116.322035000000,39.7262133000000,51.66
+116.322065000000,39.7260767000000,52.76
+116.322075000000,39.7259050000000,52.82
+116.322031700000,39.7257917000000,52.85
+116.321908300000,39.7256900000000,53.4
+116.321735000000,39.7256000000000,53.55
+116.321425000000,39.7254450000000,51.91
+116.320160000000,39.7246583000000,50.23
+116.318686700000,39.7235983000000,52.58
+116.318160000000,39.7232250000000,52.7
+116.317598300000,39.7228917000000,54.16
+116.317196700000,39.7227217000000,54.22
+116.316593300000,39.7225483000000,54.07
+116.316015000000,39.7224350000000,52.27
+116.315830000000,39.7223967000000,52.36
+116.315465000000,39.7223167000000,52.73
+116.315111700000,39.7222483000000,52.61
+116.314975000000,39.7222200000000,51.79
+116.314846700000,39.7221983000000,51.08
+116.314615000000,39.7221583000000,51.3
+116.313970000000,39.7220450000000,51.36
+116.313566700000,39.7219883000000,50.96
+116.313308300000,39.7219500000000,51.08
+116.313005000000,39.7219033000000,50.75
+116.310968300000,39.7215200000000,49.62
+116.310595000000,39.7214500000000,48.55
+116.310425000000,39.7214100000000,46.94
+116.310275000000,39.7213283000000,46.85
+116.310210000000,39.7211800000000,45.2
+116.310230000000,39.7210833000000,44.84
+116.310343300000,39.7207667000000,45.17
+116.310668300000,39.7199600000000,44.53
+116.311058300000,39.7189517000000,43.37
+116.312120000000,39.7159383000000,46.3
+116.312203300000,39.7153433000000,47.03
+116.312355000000,39.7140417000000,48.22
+116.312361700000,39.7139433000000,48.46
+116.312368300000,39.7137817000000,49.16
+116.312405000000,39.7134267000000,49.99
+116.312445000000,39.7128267000000,50.47
+116.312376700000,39.7126717000000,50.69
+116.311966700000,39.7119667000000,51.88
+116.311956700000,39.7118133000000,52.09
+116.312000000000,39.7115700000000,51.88
+116.312150000000,39.7111933000000,52.24
+116.312936700000,39.7092450000000,53.77
+116.313061700000,39.7090117000000,54.01
+116.313185000000,39.7088950000000,53.83
+116.313353300000,39.7088117000000,54.16
+116.313595000000,39.7087350000000,54.68
+116.313876700000,39.7086483000000,55.14
+116.313980000000,39.7085850000000,54.96
+116.314275000000,39.7083833000000,56.05
+116.314348300000,39.7082650000000,56.05
+116.314421700000,39.7081083000000,55.99
+116.314565000000,39.7078183000000,55.84
+116.315428300000,39.7060683000000,56.72
+116.315600000000,39.7052617000000,57.15
+116.315618300000,39.7047233000000,57.3
+116.315538300000,39.7040367000000,58
+116.315636700000,39.7032383000000,59.34
+116.315943300000,39.7010267000000,60.62
+116.316011700000,39.7006017000000,60.5
+116.316048300000,39.7003217000000,60.53
+116.316071700000,39.7001717000000,60.29
+116.316076700000,39.7000483000000,59.92
+116.316000000000,39.6999567000000,59.86
+116.315856700000,39.6999033000000,60.17
+116.315665000000,39.6998650000000,59.89
+116.315438300000,39.6998217000000,59.8
+116.313958300000,39.6995850000000,60.47
+116.313618300000,39.6995300000000,60.72
+116.310143300000,39.6989283000000,60.53
+116.307001700000,39.6983867000000,60.2
+116.304200000000,39.6979150000000,57.15
+116.303038300000,39.6977433000000,50.81
+116.302293300000,39.6976183000000,47.15
+116.301191700000,39.6974583000000,47.03
+116.298708300000,39.6970333000000,45.14
+116.297830000000,39.6968733000000,44.53
+116.294538300000,39.6963683000000,45.48
+116.293768300000,39.6962583000000,47.49
+116.293616700000,39.6962483000000,47.37
+116.293505000000,39.6963267000000,47.58
+116.293468300000,39.6964283000000,48.65
+116.293436700000,39.6965817000000,49.62
+116.293321700000,39.6970183000000,48.28
+116.293218300000,39.6971900000000,47.82
+116.292860000000,39.6977467000000,46.85
+116.292790000000,39.6979433000000,46.02
+116.292668300000,39.6985433000000,45.32
+116.292680000000,39.6985250000000,45.38
+116.292701700000,39.6984050000000,45.29
+116.292738300000,39.6981900000000,45.45
+116.292821700000,39.6978300000000,45.75
+116.292913300000,39.6976533000000,45.96
+116.293306700000,39.6969767000000,46.97
+116.293388300000,39.6966567000000,47.91
+116.293415000000,39.6965150000000,48.19
+116.293421700000,39.6964150000000,48.19
+116.293396700000,39.6963167000000,49.62
+116.293256700000,39.6962917000000,50.29
+116.292808300000,39.6962267000000,50.08
+116.292565000000,39.6962067000000,49.83
+116.290266700000,39.6960767000000,47.76
+116.288675000000,39.6959450000000,49.56
+116.286046700000,39.6955350000000,49.26
+116.285826700000,39.6955133000000,48.52
+116.285616700000,39.6955283000000,49.19
+116.285446700000,39.6956100000000,48.95
+116.285361700000,39.6957533000000,48.59
+116.285338300000,39.6959417000000,47.91
+116.285301700000,39.6963900000000,47.79
+116.285238300000,39.6970650000000,48.37
+116.285098300000,39.6984733000000,47.49
+116.284948300000,39.6999050000000,46.54
+116.284833300000,39.7010300000000,46.63
+116.283003300000,39.7099817000000,51.97
+116.280991700000,39.7188467000000,58.09
+116.280635000000,39.7205717000000,57.76
+116.280575000000,39.7208383000000,57.73
+116.280551700000,39.7209450000000,57.76
+116.280520000000,39.7210967000000,57.61
+116.280496700000,39.7211867000000,57.91
+116.280470000000,39.7212800000000,58.34
+116.280446700000,39.7213683000000,58.19
+116.280373300000,39.7216383000000,58.06
+116.280333300000,39.7217883000000,57.91
+116.280180000000,39.7223817000000,57.79
+116.279986700000,39.7230683000000,58.13
+116.279560000000,39.7246450000000,54.53
+116.277155000000,39.7335517000000,56.51
+116.275165000000,39.7409983000000,56.24
+116.275005000000,39.7415983000000,56.48
+116.274926700000,39.7418867000000,55.78
+116.274876700000,39.7422233000000,55.75
+116.274886700000,39.7423717000000,55.5
+116.274973300000,39.7424850000000,55.63
+116.275130000000,39.7425650000000,55.9
+116.275335000000,39.7426167000000,55.99
+116.275455000000,39.7426183000000,55.53
+116.275843300000,39.7426333000000,55.32
+116.277076700000,39.7426367000000,55.9
+116.278173300000,39.7426350000000,56.72
+116.282021700000,39.7426083000000,57.39
+116.282321700000,39.7426050000000,57.73
+116.283586700000,39.7426000000000,58.49
+116.283803300000,39.7425983000000,58.98
+116.283980000000,39.7425983000000,58.77
+116.284188300000,39.7425967000000,59.07
+116.284323300000,39.7425967000000,59.07
+116.284440000000,39.7425933000000,60.08
+116.284560000000,39.7425883000000,59.68
+116.284810000000,39.7425767000000,59.41
+116.284950000000,39.7425733000000,59.38
+116.285228300000,39.7425750000000,59.44
+116.285430000000,39.7425750000000,59.74
+116.285875000000,39.7425767000000,59.68
+116.288040000000,39.7425467000000,60.41
+116.288853300000,39.7425117000000,60.5
+116.289571700000,39.7424933000000,60.29
+116.292328300000,39.7424517000000,61.75
+116.296415000000,39.7424283000000,61.69
+116.296708300000,39.7424217000000,61.39
+116.296948300000,39.7424167000000,61.17
+116.297358300000,39.7424100000000,61.05
+116.297521700000,39.7424033000000,61.05
+116.297643300000,39.7424033000000,61.23
+116.297761700000,39.7424033000000,61.26
+116.297905000000,39.7423950000000,61.3
+116.298183300000,39.7423983000000,61.33
+116.298371700000,39.7423917000000,61.66
+116.298828300000,39.7423783000000,61.3
+116.299988300000,39.7423833000000,61.87
+116.305793300000,39.7424217000000,56.54
+116.305998300000,39.7424200000000,57.21
+116.306130000000,39.7424117000000,58.03
+116.306268300000,39.7423967000000,59.68
+116.306416700000,39.7423967000000,59.77
+116.306538300000,39.7424000000000,59.22
+116.306601700000,39.7423883000000,58.31
+116.306643300000,39.7425100000000,57.18
+116.306675000000,39.7426017000000,56.91
+116.306666700000,39.7427100000000,56.05
+116.306630000000,39.7428167000000,55.72
+116.306553300000,39.7429433000000,55.57
+116.306431700000,39.7431133000000,55.44
+116.306006700000,39.7437100000000,55.23
+116.304936700000,39.7453067000000,57.18
+116.302515000000,39.7491233000000,58.13
+116.301985000000,39.7507350000000,57.24
+116.301758300000,39.7524433000000,56.78
+116.301738300000,39.7531050000000,56.66
+116.301738300000,39.7532250000000,56.72
+116.301818300000,39.7546283000000,58.34
+116.301853300000,39.7550000000000,58.13
+116.301863300000,39.7551350000000,57.7
+116.301860000000,39.7552267000000,58.09
+116.301873300000,39.7553617000000,58.22
+116.301895000000,39.7556033000000,58.73
+116.301951700000,39.7561083000000,59.28
+116.301993300000,39.7565917000000,58.77
+116.302133300000,39.7573800000000,58.67
+116.302426700000,39.7586483000000,58.95
+116.302738300000,39.7598000000000,59.31
+116.302980000000,39.7606267000000,58.22
+116.303140000000,39.7611333000000,57.36
+116.303230000000,39.7614717000000,57.27
+116.303275000000,39.7616183000000,57.39
+116.303306700000,39.7617267000000,57.39
+116.303335000000,39.7618400000000,56.88
+116.303380000000,39.7619917000000,57
+116.303448300000,39.7621933000000,57
+116.303545000000,39.7624817000000,56.85
+116.303815000000,39.7631867000000,56.63
+116.304981700000,39.7661000000000,57.21
+116.305496700000,39.7673717000000,58.22
+116.305615000000,39.7676617000000,57.39
+116.305666700000,39.7678133000000,56.63
+116.305696700000,39.7679067000000,56.3
+116.305730000000,39.7680033000000,55.44
+116.305775000000,39.7681100000000,55.44
+116.305893300000,39.7684250000000,54.04
+116.305973300000,39.7686217000000,53.52
+116.306216700000,39.7692033000000,53.1
+116.306336700000,39.7695067000000,53.04
+116.308673300000,39.7754717000000,52.85
+116.308813300000,39.7758367000000,53.1
+116.308870000000,39.7759767000000,53.61
+116.308955000000,39.7761817000000,54.07
+116.309006700000,39.7763217000000,54.19
+116.309096700000,39.7765317000000,54.47
+116.309276700000,39.7769650000000,54.35
+116.309506700000,39.7774967000000,54.53
+116.309608300000,39.7777517000000,54.35
+116.310711700000,39.7803683000000,55.63
+116.310848300000,39.7806467000000,54.56
+116.310936700000,39.7807367000000,53.98
+116.311066700000,39.7807767000000,53.52
+116.311196700000,39.7807567000000,53.95
+116.311365000000,39.7807133000000,54.22
+116.311575000000,39.7806600000000,54.16
+116.311966700000,39.7805617000000,54.53
+116.312776700000,39.7803467000000,54.19
+116.312878300000,39.7802900000000,54.04
+116.312956700000,39.7802200000000,53.64
+116.313023300000,39.7800600000000,52.85
+116.312960000000,39.7799000000000,52.88
+116.312838300000,39.7797850000000,52.67
+116.312676700000,39.7797250000000,52.94
+116.312491700000,39.7797150000000,52.52
+116.312053300000,39.7797500000000,49.87
+116.311416700000,39.7797933000000,48.34
+116.310466700000,39.7798917000000,44.87
+116.308811700000,39.7800850000000,44.29
+116.303076700000,39.7806783000000,50.35
+116.300323300000,39.7806967000000,49.38
+116.298986700000,39.7805400000000,48.74
+116.297590000000,39.7802350000000,47.98
+116.295986700000,39.7796783000000,48.4
+116.294671700000,39.7790533000000,49.26
+116.290016700000,39.7764450000000,57.49
+116.285526700000,39.7740717000000,54.13
+116.283148300000,39.7731400000000,57.58
+116.281096700000,39.7726467000000,63.55
+116.279623300000,39.7724567000000,66.57
+116.278116700000,39.7724100000000,67.51
+116.276246700000,39.7725617000000,65.44
+116.274440000000,39.7729100000000,61.45
+116.272655000000,39.7735083000000,55.66
+116.271403300000,39.7741033000000,51.57
+116.269768300000,39.7751417000000,50.84
+116.268795000000,39.7759783000000,52.97
+116.267763300000,39.7771400000000,55.87
+116.266666700000,39.7788100000000,57.61
+116.265226700000,39.7821683000000,54.25
+116.262070000000,39.7909733000000,61.36
+116.259886700000,39.7980300000000,62.33
+116.258741700000,39.8069900000000,66.35
+116.257756700000,39.8092950000000,65.71
+116.256193300000,39.8117650000000,66.45
+116.249848300000,39.8192317000000,68.73
+116.243195000000,39.8268867000000,66.26
+116.241628300000,39.8284533000000,65.75
+116.240861700000,39.8289917000000,66.14
+116.239623300000,39.8296350000000,67.21
+116.238235000000,39.8301533000000,68.37
+116.230986700000,39.8323267000000,66.57
+116.229945000000,39.8329633000000,66.54
+116.229408300000,39.8334000000000,65.78
+116.228541700000,39.8343400000000,65.93
+116.225116700000,39.8382433000000,69.43
+116.221356700000,39.8417667000000,63.52
+116.217423300000,39.8459667000000,58.77
+116.216195000000,39.8475033000000,59.16
+116.215561700000,39.8486933000000,57.61
+116.214888300000,39.8505667000000,56.91
+116.214915000000,39.8509233000000,58.25
+116.214066700000,39.8559033000000,66.69
+116.213603300000,39.8569367000000,69.13
+116.212581700000,39.8584783000000,71.6
+116.206615000000,39.8663233000000,78.76
+116.203455000000,39.8708833000000,82.48
+116.202871700000,39.8721233000000,82.66
+116.202075000000,39.8744900000000,84.37
+116.201776700000,39.8768283000000,89.82
+116.201771700000,39.8772617000000,90.46
+116.201971700000,39.8795767000000,91.65
+116.202735000000,39.8822817000000,88.51
+116.205251700000,39.8885100000000,79.16
+116.205360000000,39.8901350000000,77.94
+116.205083300000,39.8954667000000,84.61
+116.205081700000,39.8959183000000,85.04
+116.205078300000,39.8963683000000,85.74
+116.205110000000,39.8985750000000,84.49
+116.205108300000,39.8990267000000,84.86
+116.205110000000,39.8996850000000,85.31
+116.205105000000,39.9005483000000,86.87
+116.205101700000,39.9009750000000,87.87
+116.205023300000,39.9049217000000,97.38
+116.205021700000,39.9051500000000,97.54
+116.205021700000,39.9053783000000,97.78
+116.205016700000,39.9056100000000,97.93
+116.205011700000,39.9065633000000,96.59
+116.205010000000,39.9072700000000,95.13
+116.205008300000,39.9077300000000,93.54
+116.205016700000,39.9090567000000,88.94
+116.205013300000,39.9096683000000,86.75
+116.205011700000,39.9100667000000,85.22
+116.205013300000,39.9102650000000,84.64
+116.205295000000,39.9148950000000,73.21
+116.205463300000,39.9163217000000,75.53
+116.205748300000,39.9184733000000,81.66
+116.206146700000,39.9231217000000,88.15
+116.206245000000,39.9261433000000,81.69
+116.206050000000,39.9324900000000,70.59
+116.205908300000,39.9373267000000,77.78
+116.205848300000,39.9396650000000,81.5
+116.206020000000,39.9417700000000,79.64
+116.206500000000,39.9433667000000,76.54
+116.207280000000,39.9448833000000,75.86
+116.209453300000,39.9487467000000,72.33
+116.209893300000,39.9505867000000,71.72
+116.211560000000,39.9596767000000,67.03
+116.213268300000,39.9686317000000,70.44
+116.214863300000,39.9776483000000,67.15
+116.215046700000,39.9793817000000,68.28
+116.215183300000,39.9830650000000,70.07
+116.215181700000,39.9833683000000,70.41
+116.215180000000,39.9835233000000,70.53
+116.215176700000,39.9838317000000,70.96
+116.215175000000,39.9839833000000,71.2
+116.215166700000,39.9845517000000,72.02
+116.215166700000,39.9849683000000,72.6
+116.215166700000,39.9851067000000,72.94
+116.215166700000,39.9855400000000,73.3
+116.215163300000,39.9859733000000,74.4
+116.215303300000,39.9878983000000,77.88
+116.215478300000,39.9887067000000,78.15
+116.215950000000,39.9901300000000,74.55
+116.216005000000,39.9902933000000,74.19
+116.216056700000,39.9904317000000,73.79
+116.216120000000,39.9905400000000,73.91
+116.216203300000,39.9906050000000,74.19
+116.216373300000,39.9906500000000,74.1
+116.216530000000,39.9906900000000,73.55
+116.216693300000,39.9907567000000,72.91
+116.216836700000,39.9908517000000,72.69
+116.216951700000,39.9909733000000,72.66
+116.217031700000,39.9910950000000,72.36
+116.217076700000,39.9912233000000,71.99
+116.217080000000,39.9913700000000,71.99
+116.217048300000,39.9915150000000,72.36
+116.216983300000,39.9916467000000,72.94
+116.216893300000,39.9917517000000,72.91
+116.216755000000,39.9918633000000,72.79
+116.216600000000,39.9919350000000,72.39
+116.216398300000,39.9920050000000,72.36
+116.216206700000,39.9920383000000,72.27
+116.216026700000,39.9920433000000,71.51
+116.215816700000,39.9920183000000,70.59
+116.215673300000,39.9919667000000,70.07
+116.215548300000,39.9919033000000,69.8
+116.215433300000,39.9918383000000,69.31
+116.215328300000,39.9917883000000,68.85
+116.215186700000,39.9917783000000,68.7
+116.215001700000,39.9918033000000,68.73
+116.214348300000,39.9919333000000,68.4
+116.213895000000,39.9920200000000,68.61
+116.210758300000,39.9924967000000,69.04
+116.210575000000,39.9924933000000,68.95
+116.209916700000,39.9924167000000,69.86
+116.209633300000,39.9923917000000,70.13
+116.209108300000,39.9924067000000,70.41
+116.207515000000,39.9924650000000,71.87
+116.205671700000,39.9925650000000,75.32
+116.205046700000,39.9926200000000,76.26
+116.204210000000,39.9927167000000,78.12
+116.204021700000,39.9927450000000,78.73
+116.203878300000,39.9927567000000,79.13
+116.203526700000,39.9927783000000,80.77
+116.203393300000,39.9927817000000,81.11
+116.202996700000,39.9928250000000,82.36
+116.202768300000,39.9928550000000,83.18
+116.201028300000,39.9930350000000,87.9
+116.200503300000,39.9930417000000,89.64
+116.200278300000,39.9930450000000,90.34
+116.200095000000,39.9930500000000,91.41
+116.198961700000,39.9930650000000,94.4
+116.198640000000,39.9930533000000,94.55
+116.198521700000,39.9930117000000,94.03
+116.198466700000,39.9929117000000,92.63
+116.198481700000,39.9927983000000,92.48
+116.198498300000,39.9926900000000,93.21
+116.198605000000,39.9926650000000,93.73
+116.198695000000,39.9926750000000,92.45
+116.198678300000,39.9926767000000,93.73
+        </coordinates>
+      </LineString>
+    </Placemark>
+   </Folder>
+  </Document>
+</kml>

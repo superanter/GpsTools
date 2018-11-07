@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <name>HistTrack(By ANTer)</name>
+         <Style id="sn_placemark_arrow">
+      		<IconStyle>
+      		<color>ff00ffff</color>
+      			<scale>0.5</scale>
+      			<Icon>
+      				<href>http://maps.google.com/mapfiles/kml/shapes/arrow.png</href>
+      			</Icon>
+      		</IconStyle>
+      		<LabelStyle>
+      			<scale>1</scale>
+      		</LabelStyle>
+      	</Style>
+            <Style id="sn_placemark_circle">
+      		<IconStyle>
+      			<scale>0.3</scale>
+      			<Icon>
+      				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+      			</Icon>
+      		</IconStyle>
+      		<LabelStyle>
+      			<scale>0.5</scale>
+      		</LabelStyle>
+      	</Style>
+    <Style id="lineStyle">
+      <LineStyle>
+        <color>A00080ff</color>
+        <width>6</width>
+      </LineStyle>
+    </Style>
+      <Folder>
+        <name>L:\KLD\Data\TrackLog 2009-11-12 daily.plt</name>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2009-11-12 19:37:37</td></tr>
+                <tr><td>经度：116.330072</td></tr>
+                <tr><td>纬度：39.730440</td></tr>
+                <tr><td>高度：62.72</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_arrow</styleUrl>
+         <name>起点</name>
+         <TimeStamp>
+            <when>2009-11-12T19:37:37Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3300717,39.73044,62.72</coordinates>
+         </Point>
+      </Placemark>
+          <Folder>
+            <name>Point</name>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2009-11-12 19:37:40</td></tr>
+                <tr><td>经度：116.330032</td></tr>
+                <tr><td>纬度：39.730555</td></tr>
+                <tr><td>高度：53.55</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>2</name>
+         <TimeStamp>
+            <when>2009-11-12T19:37:40Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3300317,39.730555,53.55</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2009-11-12 19:37:44</td></tr>
+                <tr><td>经度：116.329973</td></tr>
+                <tr><td>纬度：39.730645</td></tr>
+                <tr><td>高度：55.07</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>3</name>
+         <TimeStamp>
+            <when>2009-11-12T19:37:44Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3299733,39.730645,55.07</coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2009-11-12 19:40:29</td></tr>
+                <tr><td>经度：116.329977</td></tr>
+                <tr><td>纬度：39.730655</td></tr>
+                <tr><td>高度：56.17</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_circle</styleUrl>
+         <name>4</name>
+         <TimeStamp>
+            <when>2009-11-12T19:40:29Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.3299767,39.730655,56.17</coordinates>
+         </Point>
+      </Placemark>
+          </Folder>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2009-11-12 19:45:45</td></tr>
+                <tr><td>经度：116.329965</td></tr>
+                <tr><td>纬度：39.730688</td></tr>
+                <tr><td>高度：67.69</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>sn_placemark_arrow</styleUrl>
+         <name>终点</name>
+         <TimeStamp>
+            <when>2009-11-12T19:45:45Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>0</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>clampedToGround</altitudeMode>
+            <coordinates>116.329965,39.7306883,67.69</coordinates>
+         </Point>
+      </Placemark>
+    <Placemark>
+      <name>Track</name>
+        <styleUrl>lineStyle</styleUrl>
+      <LineString>
+        <coordinates>
+116.330071700000,39.7304400000000,62.72
+116.330031700000,39.7305550000000,53.55
+116.329973300000,39.7306450000000,55.07
+116.329976700000,39.7306550000000,56.17
+116.329965000000,39.7306883000000,67.69
+        </coordinates>
+      </LineString>
+    </Placemark>
+   </Folder>
+  </Document>
+</kml>

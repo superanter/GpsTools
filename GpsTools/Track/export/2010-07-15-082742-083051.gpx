@@ -1,0 +1,737 @@
+<?xml version="1.0"?>
+ <gpx
+ version="1.0"
+ creator="GeoRecorder"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns="http://www.topografix.com/GPX/1/0"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+ <time>2010-07-15T00:31:25Z</time>
+<wpt lat="39.732045" lon="116.329712">
+ <ele>35.000000</ele>
+ <time>2010-07-15T00:27:42Z</time>
+ <name>0</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732045" lon="116.329685">
+ <ele>45.000000</ele>
+ <time>2010-07-15T00:27:44Z</time>
+ <name>1</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732050" lon="116.329642">
+ <ele>35.000000</ele>
+ <time>2010-07-15T00:27:45Z</time>
+ <name>2</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732056" lon="116.329706">
+ <ele>47.000000</ele>
+ <time>2010-07-15T00:27:46Z</time>
+ <name>3</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732045" lon="116.329626">
+ <ele>33.000000</ele>
+ <time>2010-07-15T00:27:47Z</time>
+ <name>4</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732061" lon="116.329679">
+ <ele>41.000000</ele>
+ <time>2010-07-15T00:27:49Z</time>
+ <name>5</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732061" lon="116.329685">
+ <ele>41.000000</ele>
+ <time>2010-07-15T00:27:50Z</time>
+ <name>6</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732061" lon="116.329696">
+ <ele>40.000000</ele>
+ <time>2010-07-15T00:27:51Z</time>
+ <name>7</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732061" lon="116.329706">
+ <ele>42.000000</ele>
+ <time>2010-07-15T00:27:52Z</time>
+ <name>8</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732061" lon="116.329728">
+ <ele>44.000000</ele>
+ <time>2010-07-15T00:27:53Z</time>
+ <name>9</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732061" lon="116.329728">
+ <ele>45.000000</ele>
+ <time>2010-07-15T00:27:54Z</time>
+ <name>10</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732061" lon="116.329728">
+ <ele>45.000000</ele>
+ <time>2010-07-15T00:27:55Z</time>
+ <name>11</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732056" lon="116.329755">
+ <ele>44.000000</ele>
+ <time>2010-07-15T00:27:56Z</time>
+ <name>12</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732040" lon="116.329792">
+ <ele>43.000000</ele>
+ <time>2010-07-15T00:27:57Z</time>
+ <name>13</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732034" lon="116.329814">
+ <ele>43.000000</ele>
+ <time>2010-07-15T00:27:58Z</time>
+ <name>14</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732034" lon="116.329840">
+ <ele>42.000000</ele>
+ <time>2010-07-15T00:27:59Z</time>
+ <name>15</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732040" lon="116.329862">
+ <ele>42.000000</ele>
+ <time>2010-07-15T00:28:00Z</time>
+ <name>16</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732029" lon="116.329883">
+ <ele>41.000000</ele>
+ <time>2010-07-15T00:28:01Z</time>
+ <name>17</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732034" lon="116.329899">
+ <ele>43.000000</ele>
+ <time>2010-07-15T00:28:02Z</time>
+ <name>18</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732040" lon="116.329916">
+ <ele>43.000000</ele>
+ <time>2010-07-15T00:28:03Z</time>
+ <name>19</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732040" lon="116.329916">
+ <ele>43.000000</ele>
+ <time>2010-07-15T00:28:04Z</time>
+ <name>20</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732029" lon="116.329932">
+ <ele>42.000000</ele>
+ <time>2010-07-15T00:28:05Z</time>
+ <name>21</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732018" lon="116.329964">
+ <ele>41.000000</ele>
+ <time>2010-07-15T00:28:06Z</time>
+ <name>22</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732013" lon="116.329991">
+ <ele>40.000000</ele>
+ <time>2010-07-15T00:28:07Z</time>
+ <name>23</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732018" lon="116.330012">
+ <ele>41.000000</ele>
+ <time>2010-07-15T00:28:08Z</time>
+ <name>24</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732013" lon="116.330023">
+ <ele>42.000000</ele>
+ <time>2010-07-15T00:28:09Z</time>
+ <name>25</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732007" lon="116.330044">
+ <ele>44.000000</ele>
+ <time>2010-07-15T00:28:10Z</time>
+ <name>26</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732007" lon="116.330050">
+ <ele>44.000000</ele>
+ <time>2010-07-15T00:28:11Z</time>
+ <name>27</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732007" lon="116.330050">
+ <ele>44.000000</ele>
+ <time>2010-07-15T00:28:12Z</time>
+ <name>28</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732023" lon="116.330066">
+ <ele>45.000000</ele>
+ <time>2010-07-15T00:28:13Z</time>
+ <name>29</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732029" lon="116.330071">
+ <ele>45.000000</ele>
+ <time>2010-07-15T00:28:14Z</time>
+ <name>30</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732045" lon="116.330093">
+ <ele>46.000000</ele>
+ <time>2010-07-15T00:28:15Z</time>
+ <name>31</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732045" lon="116.330098">
+ <ele>46.000000</ele>
+ <time>2010-07-15T00:28:16Z</time>
+ <name>32</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732045" lon="116.330109">
+ <ele>46.000000</ele>
+ <time>2010-07-15T00:28:17Z</time>
+ <name>33</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732045" lon="116.330119">
+ <ele>47.000000</ele>
+ <time>2010-07-15T00:28:18Z</time>
+ <name>34</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732045" lon="116.330119">
+ <ele>47.000000</ele>
+ <time>2010-07-15T00:28:19Z</time>
+ <name>35</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732050" lon="116.330146">
+ <ele>48.000000</ele>
+ <time>2010-07-15T00:28:20Z</time>
+ <name>36</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732045" lon="116.330168">
+ <ele>48.000000</ele>
+ <time>2010-07-15T00:28:21Z</time>
+ <name>37</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732050" lon="116.330168">
+ <ele>48.000000</ele>
+ <time>2010-07-15T00:28:22Z</time>
+ <name>38</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732050" lon="116.330168">
+ <ele>48.000000</ele>
+ <time>2010-07-15T00:28:23Z</time>
+ <name>39</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732050" lon="116.330173">
+ <ele>48.000000</ele>
+ <time>2010-07-15T00:28:24Z</time>
+ <name>40</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732050" lon="116.330178">
+ <ele>49.000000</ele>
+ <time>2010-07-15T00:28:25Z</time>
+ <name>41</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732050" lon="116.330184">
+ <ele>49.000000</ele>
+ <time>2010-07-15T00:28:26Z</time>
+ <name>42</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732056" lon="116.330184">
+ <ele>49.000000</ele>
+ <time>2010-07-15T00:28:27Z</time>
+ <name>43</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732056" lon="116.330184">
+ <ele>49.000000</ele>
+ <time>2010-07-15T00:28:28Z</time>
+ <name>44</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732061" lon="116.330184">
+ <ele>49.000000</ele>
+ <time>2010-07-15T00:28:29Z</time>
+ <name>45</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732061" lon="116.330189">
+ <ele>49.000000</ele>
+ <time>2010-07-15T00:28:30Z</time>
+ <name>46</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732061" lon="116.330194">
+ <ele>49.000000</ele>
+ <time>2010-07-15T00:28:31Z</time>
+ <name>47</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732061" lon="116.330194">
+ <ele>49.000000</ele>
+ <time>2010-07-15T00:28:32Z</time>
+ <name>48</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732061" lon="116.330194">
+ <ele>49.000000</ele>
+ <time>2010-07-15T00:28:33Z</time>
+ <name>49</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732061" lon="116.330194">
+ <ele>49.000000</ele>
+ <time>2010-07-15T00:28:34Z</time>
+ <name>50</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732066" lon="116.330227">
+ <ele>48.000000</ele>
+ <time>2010-07-15T00:28:35Z</time>
+ <name>51</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732066" lon="116.330248">
+ <ele>48.000000</ele>
+ <time>2010-07-15T00:28:36Z</time>
+ <name>52</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732077" lon="116.330275">
+ <ele>48.000000</ele>
+ <time>2010-07-15T00:28:37Z</time>
+ <name>53</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732088" lon="116.330291">
+ <ele>48.000000</ele>
+ <time>2010-07-15T00:28:38Z</time>
+ <name>54</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732104" lon="116.330296">
+ <ele>49.000000</ele>
+ <time>2010-07-15T00:28:39Z</time>
+ <name>55</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732109" lon="116.330312">
+ <ele>50.000000</ele>
+ <time>2010-07-15T00:28:40Z</time>
+ <name>56</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732109" lon="116.330329">
+ <ele>50.000000</ele>
+ <time>2010-07-15T00:28:41Z</time>
+ <name>57</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732125" lon="116.330345">
+ <ele>51.000000</ele>
+ <time>2010-07-15T00:28:42Z</time>
+ <name>58</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732120" lon="116.330371">
+ <ele>51.000000</ele>
+ <time>2010-07-15T00:28:43Z</time>
+ <name>59</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732131" lon="116.330382">
+ <ele>50.000000</ele>
+ <time>2010-07-15T00:28:44Z</time>
+ <name>60</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732125" lon="116.330414">
+ <ele>50.000000</ele>
+ <time>2010-07-15T00:28:45Z</time>
+ <name>61</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732109" lon="116.330473">
+ <ele>51.000000</ele>
+ <time>2010-07-15T00:28:46Z</time>
+ <name>62</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732104" lon="116.330506">
+ <ele>51.000000</ele>
+ <time>2010-07-15T00:28:47Z</time>
+ <name>63</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732104" lon="116.330559">
+ <ele>51.000000</ele>
+ <time>2010-07-15T00:28:49Z</time>
+ <name>64</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732093" lon="116.330629">
+ <ele>51.000000</ele>
+ <time>2010-07-15T00:28:52Z</time>
+ <name>65</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732093" lon="116.330688">
+ <ele>51.000000</ele>
+ <time>2010-07-15T00:28:55Z</time>
+ <name>66</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732082" lon="116.330747">
+ <ele>51.000000</ele>
+ <time>2010-07-15T00:28:58Z</time>
+ <name>67</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732082" lon="116.330774">
+ <ele>52.000000</ele>
+ <time>2010-07-15T00:29:01Z</time>
+ <name>68</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732093" lon="116.330817">
+ <ele>52.000000</ele>
+ <time>2010-07-15T00:29:04Z</time>
+ <name>69</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732088" lon="116.330860">
+ <ele>51.000000</ele>
+ <time>2010-07-15T00:29:07Z</time>
+ <name>70</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732061" lon="116.330962">
+ <ele>50.000000</ele>
+ <time>2010-07-15T00:29:13Z</time>
+ <name>71</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732056" lon="116.331074">
+ <ele>49.000000</ele>
+ <time>2010-07-15T00:29:18Z</time>
+ <name>72</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732050" lon="116.331160">
+ <ele>49.000000</ele>
+ <time>2010-07-15T00:29:21Z</time>
+ <name>73</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732050" lon="116.331235">
+ <ele>51.000000</ele>
+ <time>2010-07-15T00:29:24Z</time>
+ <name>74</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732040" lon="116.331310">
+ <ele>52.000000</ele>
+ <time>2010-07-15T00:29:27Z</time>
+ <name>75</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732034" lon="116.331380">
+ <ele>53.000000</ele>
+ <time>2010-07-15T00:29:30Z</time>
+ <name>76</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732040" lon="116.331418">
+ <ele>53.000000</ele>
+ <time>2010-07-15T00:29:33Z</time>
+ <name>77</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732040" lon="116.331466">
+ <ele>53.000000</ele>
+ <time>2010-07-15T00:29:36Z</time>
+ <name>78</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732040" lon="116.331503">
+ <ele>52.000000</ele>
+ <time>2010-07-15T00:29:39Z</time>
+ <name>79</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732045" lon="116.331552">
+ <ele>53.000000</ele>
+ <time>2010-07-15T00:29:42Z</time>
+ <name>80</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732034" lon="116.331616">
+ <ele>52.000000</ele>
+ <time>2010-07-15T00:29:45Z</time>
+ <name>81</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732023" lon="116.331659">
+ <ele>52.000000</ele>
+ <time>2010-07-15T00:29:48Z</time>
+ <name>82</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732013" lon="116.331750">
+ <ele>52.000000</ele>
+ <time>2010-07-15T00:29:51Z</time>
+ <name>83</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732013" lon="116.331782">
+ <ele>50.000000</ele>
+ <time>2010-07-15T00:29:54Z</time>
+ <name>84</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.731997" lon="116.331815">
+ <ele>47.000000</ele>
+ <time>2010-07-15T00:29:57Z</time>
+ <name>85</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732002" lon="116.331863">
+ <ele>47.000000</ele>
+ <time>2010-07-15T00:30:00Z</time>
+ <name>86</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732007" lon="116.331890">
+ <ele>44.000000</ele>
+ <time>2010-07-15T00:30:03Z</time>
+ <name>87</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732013" lon="116.331916">
+ <ele>45.000000</ele>
+ <time>2010-07-15T00:30:06Z</time>
+ <name>88</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732018" lon="116.331954">
+ <ele>44.000000</ele>
+ <time>2010-07-15T00:30:09Z</time>
+ <name>89</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732007" lon="116.331992">
+ <ele>44.000000</ele>
+ <time>2010-07-15T00:30:12Z</time>
+ <name>90</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732007" lon="116.332056">
+ <ele>44.000000</ele>
+ <time>2010-07-15T00:30:15Z</time>
+ <name>91</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.731997" lon="116.332126">
+ <ele>44.000000</ele>
+ <time>2010-07-15T00:30:18Z</time>
+ <name>92</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732002" lon="116.332163">
+ <ele>44.000000</ele>
+ <time>2010-07-15T00:30:21Z</time>
+ <name>93</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732002" lon="116.332206">
+ <ele>44.000000</ele>
+ <time>2010-07-15T00:30:24Z</time>
+ <name>94</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732007" lon="116.332254">
+ <ele>44.000000</ele>
+ <time>2010-07-15T00:30:27Z</time>
+ <name>95</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732018" lon="116.332308">
+ <ele>45.000000</ele>
+ <time>2010-07-15T00:30:30Z</time>
+ <name>96</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732034" lon="116.332351">
+ <ele>45.000000</ele>
+ <time>2010-07-15T00:30:33Z</time>
+ <name>97</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732045" lon="116.332378">
+ <ele>46.000000</ele>
+ <time>2010-07-15T00:30:36Z</time>
+ <name>98</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732066" lon="116.332415">
+ <ele>46.000000</ele>
+ <time>2010-07-15T00:30:39Z</time>
+ <name>99</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732066" lon="116.332458">
+ <ele>47.000000</ele>
+ <time>2010-07-15T00:30:42Z</time>
+ <name>100</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732082" lon="116.332501">
+ <ele>47.000000</ele>
+ <time>2010-07-15T00:30:45Z</time>
+ <name>101</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732099" lon="116.332555">
+ <ele>47.000000</ele>
+ <time>2010-07-15T00:30:48Z</time>
+ <name>102</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+<wpt lat="39.732115" lon="116.332603">
+ <ele>48.000000</ele>
+ <time>2010-07-15T00:30:51Z</time>
+ <name>103</name>
+ <sym>Crossing</sym>
+ <type>Crossing</type>
+ </wpt>
+</gpx>

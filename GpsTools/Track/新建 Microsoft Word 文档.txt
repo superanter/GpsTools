@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document xmlns:xlink="http://www.w3.org/1999/xlink">
+   <name>20080126 去星明湖</name>
+    <Style id="points_n">
+      <IconStyle>
+        <Icon>
+          <href>http://www.seeadlerpost.com/images/KML/dot.png</href>
+        </Icon>
+      </IconStyle>
+        <LabelStyle>
+          <color>FFFFFF00</color>
+          <scale>1</scale>
+        </LabelStyle>
+    </Style>
+    <Style id="points_h">
+      <IconStyle>
+        <Icon>
+          <href>http://www.seeadlerpost.com/images/KML/dot.png</href>
+        </Icon>
+      </IconStyle>
+        <LabelStyle>
+          <color>FFFFFF00</color>
+          <scale>1</scale>
+        </LabelStyle>
+    </Style>
+    <StyleMap id="points">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#points_n</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#points_h</styleUrl>
+      </Pair>
+    </StyleMap>
+   <Style id="sn_icon25">
+      <IconStyle>
+         <Icon>
+            <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+         </Icon>
+      </IconStyle>
+        <LabelStyle>
+          <color>FFFFFF00</color>
+          <scale>1</scale>
+        </LabelStyle>
+   </Style>
+   <Style id="sn_icon26">
+      <IconStyle>
+         <Icon>
+            <href>http://maps.google.com/mapfiles/kml/pal4/icon25.png</href>
+         </Icon>
+      </IconStyle>
+        <LabelStyle>
+          <color>FFFFFF00</color>
+          <scale>1</scale>
+        </LabelStyle>
+   </Style>
+   <Folder>
+      <name>PLT Track</name>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2008-01-26 09:32:47</td></tr>
+                <tr><td>经度：116.381676</td></tr>
+                <tr><td>纬度：39.719913</td></tr>
+                <tr><td>高度：38.71</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>#sn_icon25</styleUrl>
+         <name>起点</name>
+         <Point>
+      <extrude>1</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.381676,39.719913,38.71 </coordinates>
+         </Point>
+      </Placemark>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2008-01-26 09:51:46</td></tr>
+                <tr><td>经度：116.436531</td></tr>
+                <tr><td>纬度：39.611614</td></tr>
+                <tr><td>高度：25.91</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>#sn_icon25</styleUrl>
+         <name>终点</name>
+         <Point>
+      <extrude>1</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.436531,39.611614,25.91 </coordinates>
+         </Point>
+      </Placemark>
+    <Folder>
+      <name>Points</name>
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2008-01-26 09:33:04</td></tr>
+                <tr><td>经度：116.385498</td></tr>
+                <tr><td>纬度：39.719753</td></tr>
+                <tr><td>高度：42.37</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>#points</styleUrl>
+         <name>1</name>
+         <TimeStamp>
+            <when>2008-01-26T09:33:17Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>1</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.385498,39.719753,42.37 </coordinates>
+         </Point>
+      </Placemark>
+  
+   
+      <Placemark>
+            <Snippet/>
+            <description><![CDATA[
+              <table>
+                <tr><td>时间：2008-01-26 09:51:24</td></tr>
+                <tr><td>经度：116.436142</td></tr>
+                <tr><td>纬度：39.613537</td></tr>
+                <tr><td>高度：24.99</td></tr>
+              </table>
+            ]]></description>
+         <styleUrl>#points</styleUrl>
+         <name>38</name>
+         <TimeStamp>
+            <when>2008-01-26T09:51:46Z</when>
+         </TimeStamp>
+         <Point>
+      <extrude>1</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>absolute</altitudeMode>
+            <coordinates>116.436142,39.613537,24.99 </coordinates>
+         </Point>
+      </Placemark>
+    </Folder>
+      <Placemark>
+         <name>Track</name>
+         <Style>
+            <LineStyle>
+               <color>B20000FF</color>
+            <width>6</width>
+            </LineStyle>
+         </Style>
+      <MultiGeometry>
+      <LineString>
+      <extrude>1</extrude>
+      <tessellate>0</tessellate>
+      <altitudeMode>absolute</altitudeMode>
+         <coordinates>
+116.380394,39.719975,37.80 116.381676,39.719913,38.71 116.383034,39.719845,38.40 116.436584,39.611641,25.91 116.436531,39.611614,25.91 
+            </coordinates>
+         </LineString>
+      </MultiGeometry>
+      </Placemark>
+   </Folder>
+</Document>
+</kml>

@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\GpsTools\GpsTools\obj\Debug\GpsTools.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\GpsTools\GpsTools\obj\Debug\GPSTools.MainForm.resources
+C:\Users\Administrator\source\repos\GpsTools\GpsTools\obj\Debug\GpsTools.Properties.Resources.resources
+C:\Users\Administrator\source\repos\GpsTools\GpsTools\obj\Debug\GpsTools.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\GpsTools\GpsTools\obj\Debug\GpsTools.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\GpsTools\GpsTools\obj\Debug\GpsTools.JpgForm.resources
+C:\Users\Administrator\source\repos\GpsTools\GpsTools\obj\Debug\GpsTools.KCodeForm.resources
+C:\Users\Administrator\source\repos\GpsTools\GpsTools\bin\Debug\GpsTools.exe.config
+C:\Users\Administrator\source\repos\GpsTools\GpsTools\bin\Debug\GpsTools.exe
+C:\Users\Administrator\source\repos\GpsTools\GpsTools\bin\Debug\GpsTools.pdb
+C:\Users\Administrator\source\repos\GpsTools\GpsTools\obj\Debug\GpsTools.exe
+C:\Users\Administrator\source\repos\GpsTools\GpsTools\obj\Debug\GpsTools.pdb
