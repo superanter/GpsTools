@@ -1,18 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Text;
 using System.Windows.Forms;
 using System.IO;
-using System.Text.RegularExpressions;
-using System.Threading;
-using System.Globalization;
 using System.Drawing.Drawing2D;
-
-using System.Security.Permissions; 
-
 
 namespace GpsTools
 {
@@ -1109,7 +1099,6 @@ namespace GpsTools
                 {
                     if (strIn[i][0] != "$GPGSV")
                     {
-
                         if ((i < z - 3 ) && strIn[i][0] == "$GPGGA" && strIn[i + 1][0] == "$GPRMC" && strIn[i + 2][0] == "$GPVTG" && strIn[i + 3][0] == "$GPGSA")
                         {
                             strTemp[x].strGGA = strIn[i];
@@ -1145,8 +1134,13 @@ namespace GpsTools
                         {
                             strTemp[x].strRMC = strIn[i];
                         }
+                        else if ((i < z - 1) && strIn[i][0] == "$GPRMC" && strIn[i + 1][0] == "$GPGGA")
+                        {
+                            strTemp[x].strRMC = strIn[i];
+                            strTemp[x].strGGA = strIn[i + 1];
 
-                        if ((strTemp[x].strRMC[2] == "A"))
+                        }
+                        if (strTemp[x].strRMC[2] == "A")
                         {
                             if (x != 0)
                             {
@@ -1916,7 +1910,7 @@ namespace GpsTools
                     #region GGA
                     strTemp[x].strGGA = new string[16];
                     strTemp[x].strGGA[0] = "$GPGGA";
-                    strTemp[x].strGGA[1] = strIn[i][6];
+                    strTemp[x].strGGA[1] = strIn[i][6].Remove(strIn[i][6].Length - 2, 2);
                     strTemp[x].strGGA[2] = strIn[i][1].Remove(2, strIn[i][1].Length - 2) + (Convert.ToDouble(strIn[i][1].Remove(strIn[i][1].Length - 1, 1).Remove(0, 2)) * 60).ToString("00.000000");
                     strTemp[x].strGGA[3] = "N";
                     strTemp[x].strGGA[4] = strIn[i][0].Remove(3, strIn[i][0].Length - 3) + (Convert.ToDouble(strIn[i][0].Remove(strIn[i][0].Length - 1, 1).Remove(0, 3)) * 60).ToString("00.000000");
@@ -2084,71 +2078,6 @@ namespace GpsTools
                         {
                             myFile.WriteLine(strGSA);
                         }
-                    }
-                }
-                myFile.Close();
-
-                txtMessage.Text += "共" + CsvGpsLog.Length.ToString() + "点\r\n转换完成\r\n";
-                //lblMessage1.Refresh();
-            }
-            catch
-            {
-            }
-        }
-
-        private void CSV321NMEA(string strInputName)
-        {
-            GpsLog[] CsvGpsLog;
-
-            if (sFileMode == "CSV3")
-            {
-                CsvGpsLog = Log2MessageCSV3(strInputName);
-            }
-            else
-            {
-                CsvGpsLog = Log2MessageCSV2(strInputName);
-            }
-            try
-            {
-                FileInfo FiInput = new FileInfo(strInputName);
-                string strFileName = FiInput.Name.Remove(FiInput.Name.Length - FiInput.Extension.Length);
-
-                StreamWriter myFile = File.CreateText(strFileName + ".CSV.log");
-                for (int i = 0; i < CsvGpsLog.Length; i++)
-                {
-                    string strRMC = "";
-                    string strGGA = "";
-                    string strGSA = "";
-
-                    for (int j = 0; j < CsvGpsLog[i].strRMC.Length - 2; j++)
-                    {
-                        strRMC += CsvGpsLog[i].strRMC[j] + ",";
-                    }
-                    strRMC += CsvGpsLog[i].strRMC[CsvGpsLog[i].strRMC.Length - 2];
-                    strRMC += "*" + myChk(strRMC.Substring(1, strRMC.Length - 1)).PadLeft(2, '0');
-
-                    for (int j = 0; j < CsvGpsLog[i].strGGA.Length - 2; j++)
-                    {
-                        strGGA += CsvGpsLog[i].strGGA[j] + ",";
-                    }
-                    strGGA += CsvGpsLog[i].strGGA[CsvGpsLog[i].strGGA.Length - 2];
-                    strGGA += "*" + myChk(strGGA.Substring(1, strGGA.Length - 1)).PadLeft(2, '0');
-
-                    for (int j = 0; j < CsvGpsLog[i].strGSA.Length - 2; j++)
-                    {
-                        strGSA += CsvGpsLog[i].strGSA[j] + ",";
-                    }
-                    strGSA += CsvGpsLog[i].strGSA[CsvGpsLog[i].strGSA.Length - 2];
-                    strGSA += "*" + myChk(strGSA.Substring(1, strGSA.Length - 1)).PadLeft(2, '0');
-
-                    myFile.WriteLine(strRMC);
-                    if (chkGGA.Checked)
-                    {
-                        myFile.WriteLine(strGGA);
-                    }
-                    if (chkGSA.Checked)
-                    {
-                        myFile.WriteLine(strGSA);
                     }
                 }
                 myFile.Close();
